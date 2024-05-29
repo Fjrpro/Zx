@@ -1,23 +1,23 @@
-### FAJRI TUNNELING
+### 🔰FAJRI TUNNELING🔰
 
-CONTACT FOR ORDERS : https://wa.me/6282253879282
+### CONTACT FOR ORDERS : https://wa.me/6282253879282
 
 
-🔰UPDATE TERLEBIH DAHULU🔰
+### 🔰UPDATE TERLEBIH DAHULU🔰
 <pre><code>apt update && apt upgrade -y</code></pre>
 
-🔰INSTALL SCRIPT🔰
+### 🔰INSTALL SCRIPT🔰
 <pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Fjrprp/Zx/main/premi.sh && chmod +x premi.sh && ./premi.sh
 </code></pre>
 
-🔰PERINTAH UPDATE🔰 
+### 🔰PERINTAH UPDATE🔰 
 <pre><code>wget https://raw.githubusercontent.com/Fjrpro/Zx/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
-🔰TESTED ON OS🔰
+### 🔰TESTED ON OS🔰
 - UBUNTU 20.04.05
 - DEBIAN 10
 
- 🔰FITUR TAMBAHAN🔰
+ ### 🔰FITUR TAMBAHAN🔰
 - Tambah Swap 1GiB
 - Pemasangan yang dinamis
 - Tuning profile pada server
@@ -27,8 +27,8 @@ CONTACT FOR ORDERS : https://wa.me/6282253879282
 - Auto deler expired
 - User Details Akun
 
-🔰PORT INFO🔰
-```
+### 🔰PORT INFO🔰
+
 - TROJAN WS 443
 - TROJAN GRPC 443
 - SHADOWSOCKS WS 443
@@ -45,8 +45,8 @@ CONTACT FOR ORDERS : https://wa.me/6282253879282
 - SLOWDNS 5300
 ```
 
-🔰SETTING CLOUDFLARE🔰
-```
+### 🔰SETTING CLOUDFLARE🔰
+
 - SSL/TLS : FULL
 - SSL/TLS Recommender : OFF
 - GRPC : ON
