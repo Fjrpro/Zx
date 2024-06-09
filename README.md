@@ -1,4 +1,8 @@
-### 🔰FAJRI TUNNELING🔰
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43E405&random=false&width=435&lines=%22+Script+Fajri+XD+Tunneling+%22;%22+Fajri+XD+Tunneling+Script+%22" alt="Typing SVG" /></a>
+
+<p align="center"><img src="https://img.shields.io/badge/install-autoscript vpn-success.svg">
+
 
 ### CONTACT FOR ORDERS : https://wa.me/6282253879282
 
