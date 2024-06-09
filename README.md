@@ -3,6 +3,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/install-autoscript vpn-success.svg"
 
+
 <pre><code>apt update && apt upgrade -y</code></pre>
 
 ### 🔰INSTALL SCRIPT🔰
