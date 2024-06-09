@@ -1,18 +1,14 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43E405&random=false&width=435&lines=%22+Script+Fajri+XD+Tunneling+%22;%22+Fajri+XD+Tunneling+Script+%22" alt="Typing SVG" /></a>
 
-<p align="center"><img src="https://img.shields.io/badge/install-autoscript vpn-success.svg"
-l
-
-
-
-
-
+### 🔰UPDATE DULU🔰
 <pre><code>apt update && apt upgrade -y</code></pre>
 
+### 🔰INSTALL SCRIPT#
 <pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Fjrprp/Zx/main/premi.sh && chmod +x premi.sh && ./premi.sh
 </code></pre>
- 
+
+ ### 🔰UPDATE SCRIPT🔰
 <pre><code>wget https://raw.githubusercontent.com/Fjrpro/Zx/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
  ## VERSION
