@@ -4,6 +4,10 @@
 <p align="center"><img src="https://img.shields.io/badge/install-autoscript vpn-success.svg"
 l
 
+
+
+
+
 <pre><code>apt update && apt upgrade -y</code></pre>
 
 <pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Fjrprp/Zx/main/premi.sh && chmod +x premi.sh && ./premi.sh
